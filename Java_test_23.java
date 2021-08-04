@@ -12,8 +12,6 @@ public class Java_test_23 {
 
     if (x > y){
       System.out.println("xはyより大きい");
-    }else{
-      System.out.println("xはyより小さい");
     }
   }
 }
