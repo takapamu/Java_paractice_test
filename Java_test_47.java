@@ -5,8 +5,8 @@ public class Java_test_47 {
 
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-    int s = 0;
-    int b = 0;
+    int s = 0; //ストライクカウント用
+    int b = 0; //ボールカウント用
 
     while(s < 3 && b < 4){
 
